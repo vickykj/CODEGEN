@@ -1,0 +1,34 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.btn {
+	background-image: url(../images/bg_btn.gif);
+	height: 21px;
+	width: 100px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+}
+label{
+
+/* Display as Table */
+display:inline-block;
+width:75px;
+padding:5px;
+
+/* Fonts & Colors */
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+
+#code{
+width:1050px;
+/* background-color:#009966; */
+}
